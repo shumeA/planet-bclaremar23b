@@ -1,5 +1,5 @@
 ## PlantUML Diagram
-´´´uml
+```uml
 #@startuml
 skin rose
 title Planet flowchart
@@ -17,7 +17,8 @@ repeat while (simulation time is met) is (no)
 ->yes;
 :figure plotting;
 stop
-´´´´
+```
+```code
 #Pseudocode
 ´´´´
 Define constants
@@ -32,7 +33,4 @@ Iteration
 Plot resulting ellipses
 Calculate orbit parameters
 Plot time series of parameter change
-´´´´
-´´´
-Adjust the headings and content as needed. The "```uml" and "```code" will render the PlantUML diagram and pseudocode nicely.
-´´´´
+```
