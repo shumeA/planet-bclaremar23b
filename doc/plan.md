@@ -19,8 +19,7 @@ repeat while (simulation time is met) is (no)
 stop
 ```
 ```code
-#Pseudocode
-´´´´
+##Pseudocode
 Define constants
 Define initial values
 	positions
